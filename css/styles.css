@@ -1,0 +1,48 @@
+body {
+  background-color: #cff1ef;
+}
+
+.heading{
+  color:#c70039;
+  text-align:center;
+  background-color:#f8f3eb;
+  border: solid;
+  border-width: 5px;
+  margin: 5px 300px;
+}
+.homebutton{
+  border: solid;
+  border-color: #c70039;
+  background-color:#f8f3eb;
+  float:left;
+  margin-left:470px;
+  margin-right:5px;
+}
+.about{
+  border: solid;
+  border-color: #c70039;
+  background-color:#f8f3eb;
+  float:left;
+}
+.contact{
+  border: solid;
+  border-color: #c70039;
+  background-color:#f8f3eb;
+  float:left;
+  margin-left:5px;
+}
+.editor{
+  border: solid;
+  border-color: #c70039;
+  background-color:#f8f3eb;
+  float:left;
+  margin-left:5px;
+}
+.articles{
+  margin-top: 10%;
+}
+.newsheaders{
+  background-color:#f8f3eb;
+  border: solid;
+  color:#c70039;
+}
